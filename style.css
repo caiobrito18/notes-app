@@ -15,12 +15,16 @@
   -webkit-text-size-adjust: 100%;
 }
 .TextField{
-
-	font-size: 12pt;
+  font-size: 12pt;
 }
 .Nname {
-	font-size: 42pt;
-	height: 45pt;
+  font-size: 42pt;
+  height: 45pt;
+  display: block;
+}
+.Controls{
+  display: block;
+  margin: 0;
 }
 body {
   margin: 0;
